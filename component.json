@@ -1,0 +1,8 @@
+{
+    "name": "speak.js",
+    "version": "0.0.1",
+    "main": "./speakGenerator.js",
+    "dependencies": {
+    
+    }
+}
